@@ -76,3 +76,9 @@ git add remote origin https://github.com/kojhack/learn-sql-by-building-a-student
 git remote add origin https://github.com/kojhack/learn-sql-by-building-a-student-database-part-1.git
 git pull
 git push
+git push origin master
+git push master
+git pushhttps ://github.com/kojhack/learn-sql-by-building-a-student-database-part-1.git
+git pushhttp s ://ithub.com/kojhack/learn-sql-by-building-a-student-database-part-1.git
+git push https://github.com/kojhack/learn-sql-by-building-a-student-database-part-1.git
+psql --username=freecodecamp --dbname=postgres
